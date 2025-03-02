@@ -26,14 +26,14 @@ and code from [CppOnline 2025](http://cpponline.uk).
 - [More Ranges Please](Presentations/More-Ranges-Please.pdf) by Roi Barkan
 - [Keynote: Functional Programming in C++](Presentations/Functional-programming-in-cpp.pdf) by Jonathan Müller
 - [Classes C++23 Style](Presentations/Classes-Cpp23-style.pdf) by Sebastian Theophil
-- [SIMD Substring in a String](Presentations/https://denisyaroshevskiy.github.io/presentations/dyaroshev_presentations/conference_talks/simd_subsrting_in_a_string.html) by Denis Yaroshevskiy
+- [SIMD Substring in a String](https://denisyaroshevskiy.github.io/presentations/dyaroshev_presentations/conference_talks/simd_subsrting_in_a_string.html) by Denis Yaroshevskiy
 - [Practical Tips for Safer C++](Presentations/Practical-tips-for-safer-cpp.pdf) by Tristan Brindle
 - [Adventures with Legacy Codebases](Presentations/Adventures-with-Legacy-Codebases.pdf) by Roth Michaels
 
 ## Lightning Talks
 
-- [SPSC Queue: Ditch the Lock, Speed the Queue!](Lightning Talks/SPSC-Bounded-Queue.pdf) by Sarthak Sehgal 
-- [PPPheaders.h Usage on macOS](Lightning Talks/PPPHeaders.pdf) by Paulo Chiliguano
-- [So you Wanna Delve into C++?](Lightning Talks/So-You-Wanna-Delve-Into-Cpp.pdf) by Honey Sukesan
-- [Back When ChatGPT Was Young and Stupid](Lightning Talks/Back-When-ChatGpt-Was-Young-And-Stupid.pptx) by Andrei Zissu
+- [SPSC Queue: Ditch the Lock, Speed the Queue!](Lightning%20Talks/SPSC-Bounded-Queue.pdf) by Sarthak Sehgal 
+- [PPPheaders.h Usage on macOS](Lightning%20Talks/PPPHeaders.pdf) by Paulo Chiliguano
+- [So you Wanna Delve into C++?](Lightning%20Talks/So-You-Wanna-Delve-Into-Cpp.pdf) by Honey Sukesan
+- [Back When ChatGPT Was Young and Stupid](Lightning%20Talks/Back-When-ChatGpt-Was-Young-And-Stupid.pptx) by Andrei Zissu
 - Links for ArkScript, a Small, Fast, Functional and Scripting Language for C++ Projects - [https://github.com/ArkScript-lang/Ark](https://github.com/ArkScript-lang/Ark) [https://arkscript-lang.dev/benchmarks.html](https://arkscript-lang.dev/benchmarks.html)[https://rosettacode.org/wiki/Category:ArkScript](https://rosettacode.org/wiki/Category:ArkScript)
