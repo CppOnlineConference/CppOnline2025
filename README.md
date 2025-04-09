@@ -13,9 +13,12 @@ and code from [CppOnline 2025](http://cpponline.uk).
 - [JSON in C++](Presentations/JSON-in-cpp.pdf) by Pavel Novikov
 - [What Can C++ Learn About Thread Safety From Other Languages?](Presentations/What-can-Cpp-Learn-about-Thread-Safety-from-other-Languages.pdf) by Dave Rowland
 - [How to Parse C++](Presentations/How_to_parse_cpp.pptx) by Yuri Minaev
+- [If Writing Coroutines Goes Over My Head, Where Do I Even Begin With Debugging](Presentations/If-Writing-Coroutines-Goes-Over-My-Head-Where-Do-I-Even-Begin-With-Debugging.pdf) by André Brand
+- [Data Oriented Design](Presentations/Data-Oriented-Design.pdf) by Andrew Drakeford
 - [MISRA C++ 2023 and What’s Coming Next](Presentations/Misra-cpp-and-what-comes-next.pdf) by Loïc Joly
 - [Clean Code! Horrible Performance?](Presentations/Clean-Code-Horrible-Performance.pptx) by Sandor DARGO
 - [Don’t Be Negative](Presentations/Don't-be-negative.pdf) by Frances Buontempo
+- [Declarative C++](Presentations/Declarative_C++.pdf) by Ankur Satle
 - [Writing a Base Level Library for Safety Critical Code](Presentations/Writing-a-base-library-for-safety-critical-code.pdf) by Anthony Williams
 - [Keynote: Code & Culture](Presentations/Code_and_culture.pptx) by Sejal Gupta
 - [Fast and Small C++](Presentations/Fast-and-small-cpp.pdf) by Andreas Fertig
@@ -26,7 +29,7 @@ and code from [CppOnline 2025](http://cpponline.uk).
 - [More Ranges Please](Presentations/More-Ranges-Please.pdf) by Roi Barkan
 - [Keynote: Functional Programming in C++](Presentations/Functional-programming-in-cpp.pdf) by Jonathan Müller
 - [Classes C++23 Style](Presentations/Classes-Cpp23-style.pdf) by Sebastian Theophil
-- [SIMD Substring in a String](Presentations/https://denisyaroshevskiy.github.io/presentations/dyaroshev_presentations/conference_talks/simd_subsrting_in_a_string.html) by Denis Yaroshevskiy
+- [SIMD Substring in a String](https://denisyaroshevskiy.github.io/presentations/dyaroshev_presentations/conference_talks/simd_subsrting_in_a_string.html) by Denis Yaroshevskiy
 - [Practical Tips for Safer C++](Presentations/Practical-tips-for-safer-cpp.pdf) by Tristan Brindle
 - [Adventures with Legacy Codebases](Presentations/Adventures-with-Legacy-Codebases.pdf) by Roth Michaels
 
