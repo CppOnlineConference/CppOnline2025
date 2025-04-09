@@ -35,8 +35,8 @@ and code from [CppOnline 2025](http://cpponline.uk).
 
 ## Lightning Talks
 
-- [SPSC Queue: Ditch the Lock, Speed the Queue!](Lightning Talks/SPSC-Bounded-Queue.pdf) by Sarthak Sehgal 
-- [PPPheaders.h Usage on macOS](Lightning Talks/PPPHeaders.pdf) by Paulo Chiliguano
-- [So you Wanna Delve into C++?](Lightning Talks/So-You-Wanna-Delve-Into-Cpp.pdf) by Honey Sukesan
-- [Back When ChatGPT Was Young and Stupid](Lightning Talks/Back-When-ChatGpt-Was-Young-And-Stupid.pptx) by Andrei Zissu
+- [SPSC Queue: Ditch the Lock, Speed the Queue!](Lightning%20Talks/SPSC-Bounded-Queue.pdf) by Sarthak Sehgal 
+- [PPPheaders.h Usage on macOS](Lightning%20Talks/PPPHeaders.pdf) by Paulo Chiliguano
+- [So you Wanna Delve into C++?](Lightning%20Talks/So-You-Wanna-Delve-Into-Cpp.pdf) by Honey Sukesan
+- [Back When ChatGPT Was Young and Stupid](Lightning%20Talks/Back-When-ChatGpt-Was-Young-And-Stupid.pptx) by Andrei Zissu
 - Links for ArkScript, a Small, Fast, Functional and Scripting Language for C++ Projects - [https://github.com/ArkScript-lang/Ark](https://github.com/ArkScript-lang/Ark) [https://arkscript-lang.dev/benchmarks.html](https://arkscript-lang.dev/benchmarks.html)[https://rosettacode.org/wiki/Category:ArkScript](https://rosettacode.org/wiki/Category:ArkScript)
