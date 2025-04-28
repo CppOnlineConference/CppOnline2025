@@ -15,6 +15,7 @@ and code from [CppOnline 2025](http://cpponline.uk).
 - [How to Parse C++](Presentations/How_to_parse_cpp.pptx) by Yuri Minaev
 - [If Writing Coroutines Goes Over My Head, Where Do I Even Begin With Debugging](Presentations/If-Writing-Coroutines-Goes-Over-My-Head-Where-Do-I-Even-Begin-With-Debugging.pdf) by André Brand
 - [Data Oriented Design](Presentations/Data-Oriented-Design.pdf) by Andrew Drakeford
+- [External Polymorphism and Type Erasure - A Very Useful Dance of Design Patterns](Presentations/External-Polymorphism-and-Type-Erasure.pdf) by Eduardo Madrid
 - [MISRA C++ 2023 and What’s Coming Next](Presentations/Misra-cpp-and-what-comes-next.pdf) by Loïc Joly
 - [Clean Code! Horrible Performance?](Presentations/Clean-Code-Horrible-Performance.pptx) by Sandor DARGO
 - [Don’t Be Negative](Presentations/Don't-be-negative.pdf) by Frances Buontempo
